@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  tim_corey_demo_db:
+    image: mongo  
+
+volumes:
+  mongo_data: 
+
+
+
+
+
+
